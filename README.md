@@ -4,7 +4,7 @@ There are many techniques to spin spider silk, the easiest of which is wet spinn
 
 <img width="826" alt="Screen Shot 2022-08-04 at 9 21 18 AM" src="https://user-images.githubusercontent.com/44911766/182787943-ead415ea-b8ac-40a2-8b9d-a36ffe2da663.png">
 
-Figure. Microsyringe Pump: A) Stepper motor that pushes the syringe at the desired flow rate; B) Coagulation bath where the spidroins will be pushed into. This will be filled with a chemical such as isopropanol; and C) Post-spinning roller that will collect spider silk after it has coagulated.
+Figure. A) Microsyringe Pump based on a micro-controller-enabled stepper motor that pushes the syringe at the desired flowrate; B) Coagulation bath where the spidroins will be pushed into. This will be filled with a chemical such as isopropanol; and C) Post-spinning roller that will collect spider silk after it has coagulated.
 
 References
 
