@@ -2,9 +2,7 @@
 
 There are many techniques to spin spider silk, the easiest of which is wet spinning, in which the spidroins are dissolved in a chemical solution before entering a coagulation bath that removes the solvent and causes conformational changes [5, 7]. There are many combinations of solvents and coagulation baths, such as concentrated aqueous solution in saturated ammonium, hexafluoroisopropanol in methanol, hexafluoroacetone hydrate in methanol, and formic acid in methanol [7].
 
-To do wet spinning, a microsyringe pump will be used. The microsyringe pump is capable of extruding the dope at speeds as slow as 1 μL/min into a coagulation bath (Figure 2 A). Although many different chemicals could be used for the coagulation bath (Figure 2 C), isopropanol has been chosen because of success in other experiments [7]. Once the spidroins have coagulated, a post-spinning roller will collect the spider silk (Figure 2 D).
-
-<img width="896" alt="Screen Shot 2022-08-04 at 9 20 57 AM" src="https://user-images.githubusercontent.com/44911766/182787899-d99e8011-0d5d-4555-b29f-f58e6eda0926.png">
+To do wet spinning, a microsyringe pump will be used. The microsyringe pump is capable of extruding the dope at speeds as slow as 1 μL/min into a coagulation bath. Once the spidroins have coagulated, a post-spinning roller will collect the spider silk.
 
 Because of the microsyringe pump’s design, shear force will help in the coagulation process of the spidroins [5, 7, 8]. Moreover, once the spidroins and gold nanoparticles are in the syringe the oxygen will be purged with Nitrogen gas to increase the chances of binding the gold nanoparticles and spidroins together.
 
